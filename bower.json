@@ -1,0 +1,25 @@
+{
+  "name": "menu_react",
+  "description": "navigation menu done in react",
+  "main": "index.js",
+  "authors": [
+    "lucaf"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.1",
+    "react": "~0.14.7"
+  }
+}
